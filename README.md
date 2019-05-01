@@ -14,10 +14,10 @@ Renders 2D shapes and patterns to simulate an event planner application, where a
 4. **Heartbeat**: passed time as an uniform to the shaders to generate smoothly changing, pulsating colors.
 5. **Mouse pick**: clicking near the center of an object selects it and deselects other objects.
 6. **Mouse drag**: object translation corresponds with mouse offset.
-7. **Key rotate**: change orientations of the selected objects when the 'A' or 'D' keys are held down.
-8. **Delete**: selected objects should be removed if 'DEL' is pressed.
-9. **Zoom**: pressing 'Z' should zoom in, pressing 'X' should zoom out.
-10. **Move camera**: 'I', 'J', 'K', 'L' keys to move camera
+7. **Key rotate**: change orientations of the selected objects when the `A` or `D` keys are held down.
+8. **Delete**: selected objects should be removed if `DEL` is pressed.
+9. **Zoom**: pressing `Z` should zoom in, pressing `X` should zoom out.
+10. **Move camera**: `I`, `J`, `K`, `L` keys to move camera
 
 ## Frameworks
 - OpenGL
