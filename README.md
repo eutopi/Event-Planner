@@ -19,6 +19,6 @@ Renders 2D shapes and patterns to simulate an event planner application, where a
 9. **Zoom**: pressing `Z` should zoom in, pressing `X` should zoom out.
 10. **Move camera**: `I`, `J`, `K`, `L` keys to move camera
 
-## Frameworks
+## Libraries
 - OpenGL
 - GLUT
